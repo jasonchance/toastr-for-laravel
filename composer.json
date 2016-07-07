@@ -1,6 +1,7 @@
 {
     "name": "meow/toastr-test",
     "description": "toastr.js for laravel5",
+    "license": "MIT",
     "authors": [
         {
             "name": "Meow",
