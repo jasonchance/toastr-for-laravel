@@ -1,0 +1,16 @@
+{
+    "name": "meow/toastr-for-laravel",
+    "description": "toastr.js for laravel5",
+    "authors": [
+        {
+            "name": "Meow",
+            "email": "sunbiao0526@126.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+            "Meow\\Toastr\\": "src/"
+        }
+    }
+}
